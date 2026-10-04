@@ -16,10 +16,8 @@
 
   <br/><br/>
 
-  <!-- 📸 সরাসরি আপনার নিজের আসল ছবি (নিয়ন ফ্রেম সহ) -->
-  <a href="https://github.com/MdMiraz-dev">
-    <img src="https://github.com/MdMiraz-dev.png" width="220" height="220" style="border-radius: 50%; border: 4px solid #00f2fe; box-shadow: 0 0 30px rgba(0, 242, 254, 0.6);" alt="Md Miraz" />
-  </a>
+  <!-- 🎬 আপনার নিজের কাজ করার অ্যানিমেটেড GIF (আপলোড না হওয়া পর্যন্ত ব্যাকআপ অ্যানিমেশন চলবে) -->
+  <img src="work.gif" width="700" height="320" alt="Md Miraz Coding" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif';" />
 
   <br/><br/>
 
@@ -83,7 +81,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdMiraz-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Miraz Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdMiraz-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdMiraz-dev&theme=tokyonight&hide_border=true&count_private=true" alt="Streak Stats" />
 </div>
 
 ---
@@ -91,4 +89,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=100&section=footer" width="100%" />
 </div>
-  
