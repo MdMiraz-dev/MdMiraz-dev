@@ -1,27 +1,27 @@
 <div align="center">
 
-  <!-- অ্যানিমেটেড ওয়েভ ব্যানার -->
+  <!-- Animated Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=MD%20MIRAZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Autonomous%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Automation%20Architect&descSize=20&descAlignY=60&descAlign=50" width="100%" />
 
-  <!-- লাইভ ভিউ কাউন্টার ও স্ট্যাটাস -->
+  <!-- Live View Counter & Status -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=MdMiraz-dev&label=%E2%9C%A8%20PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Views" />
     <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATION-00ff87?style=for-the-badge" alt="Status" />
   </p>
 
-  <!-- নিয়ন টাইপিং টেক্সট -->
+  <!-- Neon Typing Text -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Building+Autonomous+AI+Systems+%26+Agents;%F0%9F%8C%90+Developing+High-Performance+Websites+%26+Apps;%F0%9F%93%B1+Scaling+Social+Engagement+with+Meta+Automation;%F0%9F%8E%AC+Producing+Creative+AI+Reels+%26+Media+Pipelines!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- 🎬 আপনার নিজের কাজ করার অ্যানিমেটেড GIF (আপলোড না হওয়া পর্যন্ত ব্যাকআপ অ্যানিমেশন চলবে) -->
+  <!-- 🎬 Custom Working Animation GIF -->
   <img src="work.gif" width="700" height="320" alt="Md Miraz Coding" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif';" />
 
   <br/><br/>
 
-  <!-- যোগাযোগ বাটন -->
+  <!-- Contact Buttons -->
   <p align="center">
     <a href="mailto:mdmirazahmed3690@gmail.com">
       <img src="https://img.shields.io/badge/Email%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -38,24 +38,24 @@
 
 ---
 
-### 👋 About Me / আমি কী নিয়ে কাজ করি
+### About Me
+Hi, I'm Miraz! I'm a Full-Stack Developer with a huge passion for AI and automation. I basically love finding boring, repetitive tasks and building smart systems to do them for me.
 
-আমি একজন **Autonomous AI ও Full-Stack Developer**। দৈনন্দিন জটিল ও সময়সাপেক্ষ প্রসেসগুলোকে অটোমেশনে রূপান্তর করা এবং আধুনিক এআই প্রযুক্তির সাহায্যে ব্যবসায়িক ও ডিজিটাল গ্রোথ বাড়ানোই আমার কাজের মূল লক্ষ্য।
+Most of my day is spent building web applications, tinkering with the Meta Graph API for Facebook automation, or creating autonomous workflows using tools like Google Antigravity. When I'm not coding, I'm usually experimenting with AI video generation and finding new ways to create cool content. 
 
-আমি মূলত **ফুল-স্ট্যাক ওয়েবসাইট ও অ্যাপ ডেভেলপমেন্ট**, **সোশ্যাল মিডিয়া (মেটা/ফেসবুক) অটোমেশন**, এবং **Google Antigravity ও Hermes Agent**-এর মতো আধুনিক অটোনোমাস ফ্রেমওয়ার্ক দিয়ে স্বয়ংক্রিয় এআই সিস্টেম তৈরি করি। পাশাপাশি কনটেন্ট তৈরিতে এআই ভিডিও ও রিলস প্রোডাকশন পাইপলাইন নিয়েও নিয়মিত কাজ করে থাকি।
+I enjoy solving real problems with code and I'm always eager to learn something new.
+
+<br/>
+
+### What I Do Best
+- **Web & App Dev:** Building clean, responsive, and functional full-stack applications.
+- **AI & Automation:** Creating autonomous agents (Antigravity/Hermes) to handle daily workflows.
+- **Facebook Automation:** Writing scripts and auto-reply bots using the Meta Graph API.
+- **AI Content:** Generating AI videos and setting up automated pipelines for reels.
 
 ---
 
-### 🚀 কাজের প্রধান ক্ষেত্রসমূহ
-
-- 🌐 **ফুল-স্ট্যাক ওয়েব ও অ্যাপ্লিকেশন:** রেসপনসিভ, দ্রুতগতির আধুনিক ওয়েবসাইট এবং প্রয়োজনমাফিক কাস্টম সফটওয়্যার।
-- 🤖 **অটোনোমাস এআই এজেন্টস:** Antigravity ও Hermes এজেন্ট ব্যবহার করে জটিল কাজের জন্য স্বয়ংক্রিয় এআই সলিউশন।
-- 📱 **মেটা ও ফেসবুক অটোমেশন:** স্বয়ংক্রিয় পোস্টিং, শিডিউলিং, মেসেঞ্জার বট এবং পেজ ম্যানেজমেন্ট স্ক্রিপ্ট।
-- 🎬 **এআই ভিডিও ও মিডিয়া:** এআই রিলস জেনারেশন, ভয়েসওভার এবং ভিজ্যুয়াল ব্র্যান্ডিং।
-
----
-
-### 🛠️ টেক স্ট্যাক ও টুলস
+### Tech Stack & Tools
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 📊 গিটহাব স্ট্যাটিস্টিকস
+### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdMiraz-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Miraz Stats" />
@@ -87,5 +87,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=120&section=footer" width="100%" />
 </div>
